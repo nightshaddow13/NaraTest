@@ -1,0 +1,13 @@
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\bin\Debug\netcoreapp3.1\NaraTutorial.exe
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\bin\Debug\netcoreapp3.1\NaraTutorial.deps.json
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\bin\Debug\netcoreapp3.1\NaraTutorial.runtimeconfig.json
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\bin\Debug\netcoreapp3.1\NaraTutorial.runtimeconfig.dev.json
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\bin\Debug\netcoreapp3.1\NaraTutorial.dll
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\bin\Debug\netcoreapp3.1\NaraTutorial.pdb
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\obj\Debug\netcoreapp3.1\NaraTutorial.csprojAssemblyReference.cache
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\obj\Debug\netcoreapp3.1\NaraTutorial.AssemblyInfoInputs.cache
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\obj\Debug\netcoreapp3.1\NaraTutorial.AssemblyInfo.cs
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\obj\Debug\netcoreapp3.1\NaraTutorial.csproj.CoreCompileInputs.cache
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\obj\Debug\netcoreapp3.1\NaraTutorial.dll
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\obj\Debug\netcoreapp3.1\NaraTutorial.pdb
+C:\Users\xgoss\Documents\GitHub\NaraTest\NaraTutorial\NaraTutorial\obj\Debug\netcoreapp3.1\NaraTutorial.genruntimeconfig.cache

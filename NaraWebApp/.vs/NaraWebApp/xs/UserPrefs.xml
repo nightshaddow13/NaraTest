@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2DA9F6E9-4E4C-4A60-B621-2C52AFBE35BD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NaraWebApp/Pages/Index.cshtml.cs">
+    <Files>
+      <File FileName="NaraWebApp/Pages/Index.cshtml.cs" Line="11" Column="18" />
+      <File FileName="NaraWebApp/Pages/Index.cshtml" Line="2" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NaraWebApp" expanded="True">
+            <Node name="NaraWebApp" expanded="True">
+              <Node name="Pages" expanded="True" selected="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NaraWebApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

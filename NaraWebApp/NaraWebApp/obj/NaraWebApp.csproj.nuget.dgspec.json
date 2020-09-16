@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xgoss\\Documents\\GitHub\\NaraTest\\NaraWebApp\\NaraWebApp\\NaraWebApp.csproj": {}
+    "/Users/naradadalyan/Documents/GitHub/NaraTest/NaraWebApp/NaraWebApp/NaraWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xgoss\\Documents\\GitHub\\NaraTest\\NaraWebApp\\NaraWebApp\\NaraWebApp.csproj": {
+    "/Users/naradadalyan/Documents/GitHub/NaraTest/NaraWebApp/NaraWebApp/NaraWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xgoss\\Documents\\GitHub\\NaraTest\\NaraWebApp\\NaraWebApp\\NaraWebApp.csproj",
+        "projectUniqueName": "/Users/naradadalyan/Documents/GitHub/NaraTest/NaraWebApp/NaraWebApp/NaraWebApp.csproj",
         "projectName": "NaraWebApp",
-        "projectPath": "C:\\Users\\xgoss\\Documents\\GitHub\\NaraTest\\NaraWebApp\\NaraWebApp\\NaraWebApp.csproj",
-        "packagesPath": "C:\\Users\\xgoss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xgoss\\Documents\\GitHub\\NaraTest\\NaraWebApp\\NaraWebApp\\obj\\",
+        "projectPath": "/Users/naradadalyan/Documents/GitHub/NaraTest/NaraWebApp/NaraWebApp/NaraWebApp.csproj",
+        "packagesPath": "/Users/naradadalyan/.nuget/packages/",
+        "outputPath": "/Users/naradadalyan/Documents/GitHub/NaraTest/NaraWebApp/NaraWebApp/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xgoss\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/naradadalyan/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     }

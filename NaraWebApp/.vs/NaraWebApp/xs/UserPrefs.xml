@@ -1,23 +1,22 @@
 ﻿<Properties StartupConfiguration="{2DA9F6E9-4E4C-4A60-B621-2C52AFBE35BD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="NaraWebApp/Pages/Index.cshtml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NaraWebApp/Startup.cs">
     <Files>
-      <File FileName="NaraWebApp/Pages/Index.cshtml.cs" Line="11" Column="18" />
-      <File FileName="NaraWebApp/Pages/Index.cshtml" Line="2" Column="13" />
+      <File FileName="NaraWebApp/Controllers/TaskController.cs" Line="23" Column="1" />
+      <File FileName="NaraWebApp/Startup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NaraWebApp" expanded="True">
             <Node name="NaraWebApp" expanded="True">
-              <Node name="Pages" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Pages" expanded="True">
                 <Node name="Index.cshtml" expanded="True" />
               </Node>
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

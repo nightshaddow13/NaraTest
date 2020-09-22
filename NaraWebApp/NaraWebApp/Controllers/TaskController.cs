@@ -11,9 +11,9 @@ namespace NaraWebApp.Controllers
     public class TaskController : Controller
     {
         // GET: /<controller>/
-        public string Index()
+        public IActionResult Index()
         {
-            return "This is the default action";
+            return View();
         }
         public string ManageTask(string task, int ID)
         {

@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Task\" />
+    <Folder Include="Views\Tasks\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="Views\Index.cshtml" />

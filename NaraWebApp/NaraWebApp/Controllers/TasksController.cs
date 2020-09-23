@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace NaraWebApp.Controllers
 {
-    public class TaskController : Controller
+    public class TasksController : Controller
     {
         // GET: /<controller>/
         public IActionResult Index()

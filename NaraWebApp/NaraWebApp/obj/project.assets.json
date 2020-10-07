@@ -8796,7 +8796,7 @@
       "outputPath": "/Users/naradadalyan/Documents/GitHub/NaraTest/NaraWebApp/NaraWebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/naradadalyan/.config/NuGet/NuGet.Config"
+        "/Users/naradadalyan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

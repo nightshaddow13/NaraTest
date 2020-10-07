@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{2DA9F6E9-4E4C-4A60-B621-2C52AFBE35BD}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NaraWebApp/Startup.cs">
     <Files>
-      <File FileName="NaraWebApp/Startup.cs" Line="60" Column="1" />
+      <File FileName="NaraWebApp/Startup.cs" Line="30" Column="27" />
       <File FileName="NaraWebApp/appsettings.Development.json" />
       <File FileName="NaraWebApp/appsettings.json" />
       <File FileName="NaraWebApp/Controllers/HomeController.cs" />
@@ -9,7 +9,8 @@
       <File FileName="NaraWebApp/Views/Shared/_Layout.cshtml" Line="21" Column="25" />
       <File FileName="NaraWebApp/Views/Shared/_ValidationScriptsPartial.cshtml" />
       <File FileName="NaraWebApp/Models/EmptyClass.cs" Line="5" Column="2" />
-      <File FileName="NaraWebApp/Data/NTaskContext.cs" Line="8" Column="34" />
+      <File FileName="NaraWebApp/Data/NTaskContext.cs" Line="12" Column="37" />
+      <File FileName="NaraWebApp/Models/ErrorViewModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,10 +21,9 @@
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Tasks" selected="True" />
-              </Node>
+              <Node name="Views" expanded="True" />
               <Node name="wwwroot" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
